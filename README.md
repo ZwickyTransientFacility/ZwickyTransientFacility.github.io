@@ -1,8 +1,9 @@
-## 
-##
+The Zwicky Transient Facility is a next-generation astronomical survey at Palomar Observatory.
 
-[ZTF Homepage](ztf.caltech.edu) 
+[ZTF Project Homepage](https://ztf.caltech.edu) 
 
-[Documentation site for alert packets](https://zwickytransientfacility.github.io/ztf-avro-alert/)
+[Alert Packet Documentation](https://zwickytransientfacility.github.io/ztf-avro-alert/)
 
-[ZTF code](https://github.com/ZwickyTransientFacility)
+[Alert Stream Documentation](https://zwickytransientfacility.github.io/alert_stream/)
+
+[ZTF Github Repository](https://github.com/ZwickyTransientFacility)
